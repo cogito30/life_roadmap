@@ -31,7 +31,7 @@
 
 ## Certificate
 (어학)
-1. **TOEIC**: 
+1. **TOEIC**
 2. **TOEIC Speaking/OPIC**
 3. **TOEIC Writing**
 4. IELTS
