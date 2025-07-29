@@ -1,17 +1,9 @@
 # 삶의 이정표
 
-## Basic
-1. 영어: TOEIC -> TOEIC Speaking -> TOEIC Writing
-2. 문서 작성법: Word -> PowerPoint -> Excel
-3. 공학 기본기: 미적분학 -> 확률/통계 -> 공학수학 -> 일반물리학
-4. SW 기본기: C -> C++ -> 자료구조/알고리즘 -> 운영체제/컴퓨터구조 -> 네트워크 -> 데이테베이스
-5. 웹개발: Java -> Spring -> JavaScript -> React -> NodeJS + Express
-6. AI: Python -> 머신러닝 -> 딥러닝 -> PyTorch -> Django/DRF + FastAPI
-7. Embedded: C/C++ -> Arduino -> RaspberryPi -> ARM(Cortex)
-
-
 ## 학습 순서
 1. 영어
+- 공학(HW, SW, AI)의 기본이 되는 정보를 학습하기 위해 듣기/읽기 능력이 필수
+- 취업/유학 등 선택의 폭을 넓히기 위해 말하기/쓰기 능력이 필수
 | 시험명 | 최소목표점수 | 개인목표점수 |
 | :---: | :---: | :---: |
 | 토익스피킹 | 140+ | 160+ |
