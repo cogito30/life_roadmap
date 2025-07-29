@@ -28,9 +28,11 @@
 - [데이터베이스의 원리와 응용(한양대-백현미)](http://www.kocw.net/home/search/kemView.do?kemId=1163794)로 Database 학습
 
 (BackEnd개발: Java/Spring)
+- [2024 백엔드 개발자 로드맵](https://zero-base.co.kr/event/media_BE_school_roadmap)에서 핵심 주제 파악하기
 - [boostcourse 풀스택개발](https://www.boostcourse.org/web316)로 Spring 기초 학습
 - [이것이 취업을 위한 백엔드 개발이다.](https://www.youtube.com/playlist?list=PLVsNizTWUw7FBMFX9pezh5Gxg5AtNmoMv) 백엔드 학습
 - [김영한의 스프링 완전 정복](https://www.inflearn.com/roadmaps/373)로 Spring 학습
+
 
 (JavaScript)
 - [Modern JavaScript](https://ko.javascript.info/)로 JavaScript 기본 문법 학습
