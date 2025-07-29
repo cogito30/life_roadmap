@@ -43,6 +43,12 @@
 | AICE(PROFESSIONAL) | KT 주관 AI 인증 자격증 |
 | ADP | 데이터분석 심화 인증 |
 
+#### 5. Graphics
+- C, C++, JavaScript 활용 능력
+- 그래픽 이론 및 OpenCV, Vulkan, DirectX에 대한 이해
+- 수식 구현 능력 필요
+- 학습방법: HongLab의 로드맵 따라가기
+
 ## Certificate
 (어학)
 1. TOEIC
