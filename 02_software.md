@@ -31,7 +31,7 @@
 - [Modern JavaScript](https://ko.javascript.info/)로 JavaScript 기본 문법 학습
 
 (FrontEnd개발: JavaScript/React/Redux/Webpack)
-- []()
+- [HTML, CSS, JavaScript: 웹 개발의 핵심](https://www.youtube.com/watch?v=phiSW6Pr-gg)으로 HTML, CSS, JS DOM 학습
 - []()
 
 (FullStack개발: JS/NodeJS/Express/NestJS)
