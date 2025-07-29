@@ -23,9 +23,16 @@
 - 코딩테스트에 필요한 Java 기본 라이브러리 메서드 암기
 - [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)에서 Lv3까지 순서대로 풀기
 
-(웹개발)
+(BackEnd개발: Java/Spring)
 - [boostcourse 풀스택개발](https://www.boostcourse.org/web316)로 Spring 기초 학습
 - [김영한의 스프링 완전 정복](https://www.inflearn.com/roadmaps/373)로 Spring 학습
+
+(FrontEnd개발: JavaScript/React/Redux/Webpack)
+- []()
+- []()
+
+(FullStack개발: JS/NodeJS/Express/NestJS)
+- []()
 
 ## 점수기록
 #### SQLD
