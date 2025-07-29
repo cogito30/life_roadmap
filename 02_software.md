@@ -27,6 +27,9 @@
 - [boostcourse 풀스택개발](https://www.boostcourse.org/web316)로 Spring 기초 학습
 - [김영한의 스프링 완전 정복](https://www.inflearn.com/roadmaps/373)로 Spring 학습
 
+(JavaScript)
+- [Modern JavaScript](https://ko.javascript.info/)로 Java 기본 문법 학습
+
 (FrontEnd개발: JavaScript/React/Redux/Webpack)
 - []()
 - []()
