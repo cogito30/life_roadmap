@@ -46,7 +46,7 @@
 - [프론트 기술 면접](https://www.youtube.com/playlist?list=PLBh_4TgylO6CI4Ezq3OLRRzg2NAn3FLPB) 참고하기
 
 (FullStack개발: JS/NodeJS/Express/NestJS)
-- [노드로 배우는 백엔드 A-Z]로 nodejs, express 기본 학습하기
+- [노드로 배우는 백엔드 A-Z](https://academy.dream-coding.com/courses/node)로 nodejs, express 기본 학습하기
 - []()
 
 ## 점수기록
