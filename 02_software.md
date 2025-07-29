@@ -23,6 +23,10 @@
 - 코딩테스트에 필요한 Java 기본 라이브러리 메서드 암기
 - [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)에서 Lv3까지 순서대로 풀기
 
+(SQL)
+- [TCP School(MySQL)](https://tcpschool.com/mysql/intro)로 SQL 학습
+- [데이터베이스의 원리와 응용(한양대-백현미)](http://www.kocw.net/home/search/kemView.do?kemId=1163794)로 Database 학습
+
 (BackEnd개발: Java/Spring)
 - [boostcourse 풀스택개발](https://www.boostcourse.org/web316)로 Spring 기초 학습
 - [이것이 취업을 위한 백엔드 개발이다.](https://www.youtube.com/playlist?list=PLVsNizTWUw7FBMFX9pezh5Gxg5AtNmoMv) 백엔드 학습
