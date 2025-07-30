@@ -38,7 +38,6 @@
 - [리눅스 커널 구조와 원리 1,2](https://www.inflearn.com/users/1180851/courses) 교재 학습하기
 - [Arm 아키텍처](https://www.inflearn.com/users/1180851/courses) 교재 학습하기
 - 고급 리눅스 API 1,2 교재 참고자료로 구매하기
-- 고급 리눅스 API 1,2 교재 참고자료로 구매하기
 
 (임베디드 심화)
 - FPGA 학습하기
