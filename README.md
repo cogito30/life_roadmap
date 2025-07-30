@@ -38,13 +38,6 @@
 - object: 문제별 특징을 파악하여 해결하기 위한 모델 탐색 및 모델 구현, 데이터처리를 통한 모델 성능향상
 - 학습법: 데이터전처리 -> 데이터시각화 -> 데이터분석 -> MLP -> CNN -> RNN -> Transformer -> Multi-Modal -> CV/NLP/RS 심화분야
 
-| 시험명 | 취득사유 |
-| :---: | :---: |
-| ADsP | 데이터분석에 필요한 기본 이론 인증 |
-| 빅데이터분석기사 | 데이터분석에 필요한 기본 이론 및 코드 구현 인증 |
-| AICE(PROFESSIONAL) | KT 주관 AI 인증 자격증 |
-| ADP | 데이터분석 심화 인증 |
-
 #### 5. Graphics
 - C, C++, JavaScript 활용 능력
 - 그래픽 이론 및 OpenCV, Vulkan, DirectX에 대한 이해
