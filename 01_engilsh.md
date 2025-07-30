@@ -23,9 +23,9 @@
 3) [시계토끼제니썜](https://www.youtube.com/@rabbit_jennycha/videos)의 토익스피킹 모의고사 풀이 해설 보고 정리하기
 4) 1-3의 과정에서 문장 및 단어, 템플릿 암기하기
 
-+) [해커스TV의 토익스피킹 500문장](https://www.youtube.com/watch?v=FKPdC5oFQgY)의 문장 암기
-+) [해커스TV의 토익스피킹 1000문장](https://www.youtube.com/watch?v=C5zdRPnhJFM)의 문장 암기
-+) [제이크 토익스피킹의 토익스피킹 필수 문장](https://www.youtube.com/playlist?list=PLi5ZeXp0sQKiSwulTYx8SRGSM8M4-o74h)의 문장 암기
+(+) [해커스TV의 토익스피킹 500문장](https://www.youtube.com/watch?v=FKPdC5oFQgY)의 문장 암기
+(+) [해커스TV의 토익스피킹 1000문장](https://www.youtube.com/watch?v=C5zdRPnhJFM)의 문장 암기
+(+) [제이크 토익스피킹의 토익스피킹 필수 문장](https://www.youtube.com/playlist?list=PLi5ZeXp0sQKiSwulTYx8SRGSM8M4-o74h)의 문장 암기
 
 (TOEIC)
 1) [ETS 토익 단기공략 750+ 최신개정판](https://www.youtube.com/playlist?list=PL2mUKRt8sXvja0B8w365qn2tgi0AahED9) 강의 듣고 파트별 학습하기
