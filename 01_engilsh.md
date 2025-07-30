@@ -5,6 +5,7 @@
 - Reading: 공식문서(영어) 읽기
 - Speaking: 영어로 정보 전달/설명하기
 - Writing: 영어로 문서 작성하기
+=> 기본 문법 + 영어 단어 + 문장 암기
 
 ## 기준 점수
 | 시험명 | 최소목표점수 | 개인목표점수 |
@@ -32,6 +33,9 @@
 2) 1의 과정에서 모르는 단어 암기 및 해석이 되지 않는 문장 반복 숙달하기
 3) 해커스 토익 기출 VOCA 단어 암기하기
 4) ETS 토익 정기시험 기출문제집 1000 Vol 4 LC/RC 문제풀고 정리하기
+
+- [해커스 토익 RC Reading 기본서](https://product.kyobobook.co.kr/detail/S000200406668): 800을 넘기고 나서 선택할 심화 기본서
+- [해커스 토익 LC Listening 기본서](https://product.kyobobook.co.kr/detail/S000200406673): 800을 넘기고 나서 선택할 심화 기본서
 
 (TOEIC Writing)
 1) ETS 토익라이팅 기출 공식대비서 문제풀고 정리하기
