@@ -32,11 +32,13 @@
 - Arduino -> RaspberryPi -> ARM(Cortex) 순서로 학습하기
 - [임베디드 소프트웨어 베이직 with 라즈베리파이](https://product.kyobobook.co.kr/detail/S000208470319) 교재로 기본기 학습하기
 - 임베디드 스크래치 교재로 회로 기본기 학습하기
+- [CAN 통신](https://www.inflearn.com/users/462221/courses) 학습하기
+- [OJ Tube의 임베디드 개발(입문)](https://www.inflearn.com/course/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8) 참고하여 임베디드 기본 학습
 - [임베디드 레시피](https://recipes.tistory.com/) 교재 로 회로 기본기 학습하기
 - [리눅스 커널 구조와 원리 1,2](https://www.inflearn.com/users/1180851/courses) 교재 학습하기
 - [Arm 아키텍처](https://www.inflearn.com/users/1180851/courses) 교재 학습하기
 - 고급 리눅스 API 1,2 교재 참고자료로 구매하기
-- [CAN 통신](https://www.inflearn.com/users/462221/courses) 학습하기
+- 고급 리눅스 API 1,2 교재 참고자료로 구매하기
 
 (임베디드 심화)
 - FPGA 학습하기
