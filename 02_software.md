@@ -60,6 +60,7 @@
 - [Developer Roadmap](https://roadmap.sh/)
 - [DreamHack](https://dreamhack.io/)
 - [Inpa Dev](https://inpa.tistory.com/)
+- [신입 개발자 전공 지식 & 기술 면접 백과사전](https://github.com/gyoogle/tech-interview-for-developer)
 
 ## 점수기록
 #### SQLD
