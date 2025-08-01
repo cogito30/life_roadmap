@@ -110,6 +110,7 @@
 - [직행](https://zighang.com/)
 - [원티드](https://www.wanted.co.kr/)
 - [LinkedIn](https://kr.linkedin.com/)
+- [부트캠프 모음 사이트](https://boottent.com/camps)
 
 ## 학습 보조 도구
 - [ChatGPT](https://chatgpt.com/)
