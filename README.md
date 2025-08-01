@@ -87,3 +87,7 @@
 5. 투자자산운용사
 6. CPA
 
+## 학습 보조 도구
+- [ChatGPT](https://chatgpt.com/)
+- [PerPlexity](https://www.perplexity.ai/?login-source=oneTapHome&login-new=false)
+- [Claude](https://claude.ai/login?returnTo=%2F%3F)
