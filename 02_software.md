@@ -14,7 +14,6 @@
 | 정보보안기사 | 네트워크 및 정보보안관련 기본 이론 인증 |
 - **굵은 글씨** 표시가 있는 것은 최소 필수 조건
 
-
 ## 학습방법
 ```
 1) 프로그램 언어 기본 문법 학습. 주요 개념, 키워드 암기
@@ -56,6 +55,9 @@
 (FullStack개발: JS/NodeJS/Express/NestJS)
 - [노드로 배우는 백엔드 A-Z](https://academy.dream-coding.com/courses/node)로 nodejs, express 기본 학습하기
 - []()
+
+## 참고자료
+- [Developer Roadmap](https://roadmap.sh/)
 
 ## 점수기록
 #### SQLD
