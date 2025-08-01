@@ -100,6 +100,17 @@
 - [직무능력은행](https://bank.ncs.go.kr/)
 - [민간자격검색(자격정보)](https://www.pqi.or.kr/inf/qul/infQulList.do?searchQulCpCd=0001)
 
+## 채용 사이트
+- [직행](https://zighang.com/)
+- [원티드](https://www.wanted.co.kr/)
+- [잡코리아](https://www.jobkorea.co.kr/)
+- [사람인](https://www.saramin.co.kr/zf_user/)
+- [자소설닷컴](https://jasoseol.com/)
+- [잡다](https://www.jobda.im/)
+- [직행](https://zighang.com/)
+- [원티드](https://www.wanted.co.kr/)
+- [LinkedIn](https://kr.linkedin.com/)
+
 ## 학습 보조 도구
 - [ChatGPT](https://chatgpt.com/)
 - [PerPlexity](https://www.perplexity.ai/?login-source=oneTapHome&login-new=false)
