@@ -43,6 +43,12 @@
 - FPGA 학습하기
 - ...
 
+(부트캠프)
+- [한컴아카데미](https://www.hancomacademy.com/aboutus/index.php) 교육 커리큘럼 참고
+- [한컴아카데미: 오프라인교육](https://edu.hancomacademy.com/about/loadmap.php) 교육 커리큘럼 참고
+- [전자회로설계교육 카페](https://cafe.naver.com/modulecircuit)
+- [오제이 튜브](https://www.youtube.com/@OJTube)
+
 ## 점수기록
 #### 리눅스마스터(1급)
 
