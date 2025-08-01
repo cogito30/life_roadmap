@@ -51,22 +51,16 @@
 - 게임 서버 개발 맟 stateful 서버에 대한 이해(RPG)
 
 ## Certificate
-(어학)
-1. TOEIC
-2. TOEIC Speaking/OPIC
-3. TOEIC Writing
-4. IELTS
 
-(웹개발)
-1. SQLD
-2. 리눅스마스터 2급/1급
-3. 정보처리기사
-4. 정보보안기사 + DreamHack
+| 어학 | 웹개발 | 데이터분석 | 임베디드 | AI | Game | 금융 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| TOEIC | SQLD | ADsP |  |  |  |  |
+| TOEIC Speaking | 리눅스마스터(2급) | 빅데이터분석기사 |  |  |  |  |
+| OPIC | 정보처리기사 | ADP |  |  |  |  |
+| TOEIC Writing | 정보보안기사 |  |  |  |  |  |
+| IELTS | 리눅스마스터(1급) |  |  |  |  |  |
 
-(데이터분석)
-1. ADsP
-2. 빅데이터분석기사
-3. ADP
+
 
 (임베디드)
 1. 리눅스마스터(1급)
