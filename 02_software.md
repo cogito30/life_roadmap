@@ -38,6 +38,8 @@
 - [boostcourse 풀스택개발](https://www.boostcourse.org/web316)로 Spring 기초 학습
 - [이것이 취업을 위한 백엔드 개발이다.](https://www.youtube.com/playlist?list=PLVsNizTWUw7FBMFX9pezh5Gxg5AtNmoMv) 백엔드 학습
 - [김영한의 스프링 완전 정복](https://www.inflearn.com/roadmaps/373)로 Spring 학습
+- [데이터베이스 강의를 추천하는 것보다 중요한 것](https://roka88.dev/123) DB 학습 목표 설정하기
+- [코드라뗴의 데이터베이스 강의](https://www.codelatte.io/courses/database_basic)로 DB 학습
 
 
 (JavaScript)
