@@ -58,6 +58,8 @@
 
 ## 참고자료
 - [Developer Roadmap](https://roadmap.sh/)
+- [DreamHack](https://dreamhack.io/)
+- [Inpa Dev](https://inpa.tistory.com/)
 
 ## 점수기록
 #### SQLD
