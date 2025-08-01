@@ -1,4 +1,4 @@
-# Software
+# Web
 
 ## Object
 - 문제해결력을 위한 Programmers(Lv3+) 이상의 알고리즘 열량
