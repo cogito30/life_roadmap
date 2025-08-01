@@ -44,6 +44,12 @@
 - 수식 구현 능력 필요
 - 학습방법: HongLab의 로드맵 따라가기
 
+#### 6. Game
+- C++, C# 활용 능력
+- CS 기본기에 대한 이해
+- 게임 클라이언트 UI 개발 및 Unreal Engine에 대한 이해
+- 게임 서버 개발 맟 stateful 서버에 대한 이해(RPG)
+
 ## Certificate
 (어학)
 1. TOEIC
