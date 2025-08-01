@@ -26,12 +26,15 @@
 - [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)에서 Lv3까지 순서대로 풀기
 - [Solved.ac](https://solved.ac/en)에서 Class5까지 풀기
 
-(게임 개발)
+(게임 클라이언트 개발)
 - [이득우의 언리얼 프로그래밍 로드맵](https://www.inflearn.com/roadmaps/701?srsltid=AfmBOoqsr2OYqmPvkjXm6L-7CwCSy6kIAqxUROmYSaqVowih30A6wCq1) 학습하기
 - [골드메탈의 Unity](https://www.youtube.com/@goldmetal/videos)로 기본 학습하기
 - [Unity Learn](https://learn.unity.com/)에서 필요한 부분 학습하기
 - [에픽 라운지](https://epiclounge.co.kr/index_ufs25.php)에서 Unreal 관련 기본기 학습
 - [UnrealEngine Learn](https://dev.epicgames.com/community/unreal-engine/getting-started)에서 필요한 부분 학습하기
+
+(게임 서버 개발)
+- [게임 서버 개발자가 알아야할 TCP/IP Windows 소켓 프로그래밍](https://www.youtube.com/playlist?list=PLW_xyUw4fSdZ9E4SaOOydJOiuFGchy5HI)
 
 ## 점수기록
 #### 게임프로그래밍 전문가
