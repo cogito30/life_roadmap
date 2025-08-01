@@ -29,6 +29,7 @@
 - [Solved.ac](https://solved.ac/en)에서 Class5까지 풀기
 
 (임베디드 기본)
+- [Docceptor](https://www.youtube.com/@docceptor195/videos)로 디지털회로 기본 학습
 - Arduino -> RaspberryPi -> ARM(Cortex) 순서로 학습하기
 - [임베디드 소프트웨어 베이직 with 라즈베리파이](https://product.kyobobook.co.kr/detail/S000208470319) 교재로 기본기 학습하기
 - 임베디드 스크래치 교재로 회로 기본기 학습하기
