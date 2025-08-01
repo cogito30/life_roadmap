@@ -87,6 +87,19 @@
 5. 투자자산운용사
 6. CPA
 
+## 자격증 사이트
+- [Q-net](https://www.q-net.or.kr/man001.do?gSite=Q)
+- [데이터자격시험](https://www.dataq.or.kr/www/main.do)
+- [KCA 국가기술자격검정](https://www.cq.or.kr/main.do)
+- [한국정보통신자격협회](https://www.icqa.or.kr/cn/page/network)
+- [KAIT 자격검정](https://www.ihd.or.kr/introducesubject1.do)
+- [KPC 자격](https://license.kpc.or.kr/kpc/qualfAthrz/index.do)
+- [TOEIC 공식 사이트](https://exam.toeic.co.kr/index.php)
+- [한국콘텐츠진흥원 게임국가기술자격검정](https://www.kgq.or.kr/service/main.do)
+- [대한상공회의소 자격평가사업단](https://license.korcham.net/)
+- [직무능력은행](https://bank.ncs.go.kr/)
+- [민간자격검색(자격정보)](https://www.pqi.or.kr/inf/qul/infQulList.do?searchQulCpCd=0001)
+
 ## 학습 보조 도구
 - [ChatGPT](https://chatgpt.com/)
 - [PerPlexity](https://www.perplexity.ai/?login-source=oneTapHome&login-new=false)
