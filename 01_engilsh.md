@@ -34,6 +34,8 @@
 3) 해커스 토익 기출 VOCA 단어 암기하기
 4) ETS 토익 정기시험 기출문제집 1000 Vol 4 LC/RC 문제풀고 정리하기
 
+- [서아썜의 비밀과와 LC 빈출문장 몰아보기](https://www.youtube.com/watch?v=utxj6hRIpeU)
+- [민지원 토익 LC 빈출문장 모음](https://www.youtube.com/watch?v=WU2icLNdgWU)
 - [해커스 토익 RC Reading 기본서](https://product.kyobobook.co.kr/detail/S000200406668): 800을 넘기고 나서 선택할 심화 기본서
 - [해커스 토익 LC Listening 기본서](https://product.kyobobook.co.kr/detail/S000200406673): 800을 넘기고 나서 선택할 심화 기본서
 
