@@ -2,7 +2,6 @@
 
 ## Object
 (2025)
-- main:
 - (main): BackEnd with Java/Spring
 - TOEIC Speaking: 160+
 - TOEIC Writing: 150+
