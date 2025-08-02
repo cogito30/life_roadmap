@@ -6,7 +6,7 @@
 - (main): BackEnd with Java/Spring
 - TOEIC Speaking: 160+
 - TOEIC Writing: 150+
-- 영상처리 알고리즘 구현(C++, Python)
+- 웹브라우저 기반의 애플리케이션 개발(JavaScript)
 
 (2026)
 - (main): BackEnd with Java/Spring
