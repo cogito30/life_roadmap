@@ -56,7 +56,7 @@
 | TOEIC | SQLD | ADsP | 리눅스마스터(1급) | ADsP | 게임프로그래밍 전문가 | 전산회계 1급 |
 | TOEIC Speaking | 리눅스마스터(2급) | 빅데이터분석기사 | 정보통신기사 | 빅데이터분석기사 |  | 전산세무 2급 |
 | OPIC | 정보처리기사 | ADP | 전기기사 | AICE |  | 전산세무 1급 |
-| TOEIC Writing | 정보보안기사 | ADP |  |  |  | 은행FP |
+| TOEIC Writing | 정보보안기사 |  |  | ADP |  | 은행FP |
 | IELTS | 리눅스마스터(1급) |  |  |  |  | 투자자산운용사 |
 
 
