@@ -47,6 +47,7 @@
 (FrontEnd개발: JavaScript/React/Redux/Webpack)
 - [HTML, CSS, JavaScript: 웹 개발의 핵심](https://www.youtube.com/watch?v=phiSW6Pr-gg)으로 HTML, CSS, JS DOM 학습
 - [프론트엔드 입문자를 위한 영상 순서](https://power-oregano-6ec.notion.site/277f2906743742ae8f19b6494581058f) 순서대로 학습하기
+- [노마드코더](https://nomadcoders.co/courses)에서 필요한 프로젝트 경험해보기
 - [프론트엔드 개발 올인원 패키지(FastCampus)](https://fastcampus.co.kr/)로 React 기초 학습하기
 - [React Tutorial](https://react.dev/)로 React 원리 및 주요기능 익히기
 - [브라우저는 어떻게 동작하는가](https://d2.naver.com/helloworld/59361)로 브라우저 원리 파악하기
