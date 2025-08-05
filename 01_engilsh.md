@@ -19,6 +19,12 @@
 
 ## 학습방법
 (TOEIC Speaking)
+```
+(시계토끼제니쌤)
+1) 독학용 파트별 핵심강의 듣고 유형별 템플릿 암기
+2) 만능 문장 모음집 듣고 문장 암기(Part3->Part5->Part2->Part4)
+3) 기출문제 풀어보면서 연습하기
+```
 1) [시계토끼제니쌤의 토익 독학용 파트별 핵심강의](https://www.youtube.com/watch?v=CHCq0vh6Frg) 듣고 템플릿 정리하기
 2) [시계토끼제니썜의 토익스피킹 만능문장 모음집](https://www.youtube.com/watch?v=ZzyolBABSIw)의 문장 암기
 3) [시계토끼제니썜](https://www.youtube.com/@rabbit_jennycha/videos)의 토익스피킹 모의고사 풀이 해설 보고 정리하기
@@ -30,6 +36,26 @@
 - [제이크 토익스피킹의 토익스피킹 필수 문장](https://www.youtube.com/playlist?list=PLi5ZeXp0sQKiSwulTYx8SRGSM8M4-o74h)의 문장 암기
 
 (TOEIC)
+```
+(LC: ETS 토익 단기공략 750+ 최신개정판 Unit별 풀이)
+1) 듣고 문제풀이
+2) 지문보고 문제풀이 -> 단어/문장해석 체크
+3) 다시 듣고 들리지 않는 문장 체크
+4) 단어 및 문장 암기
+5) 3-4 과정 반복
+
+(RC(Grammar): ETS 토익 단기공략 750+ 최신개정판 Unit별 풀이)
+1) 기본문법 1회독
+2) 문제풀이
+3) 문제풀이후 근거 찾기
+4) 틀린 문제 기록하고 다시 풀어보기
+
+(RC(Reading): ETS 토익 단기공략 750+ 최신개정판 Unit별 풀이)
+1) 문제풀기
+2) 모르는 단어 및 문장 체크
+3) 단어 및 문장 암기
+4) 2-3 과정 반복
+```
 1) [ETS 토익 단기공략 750+ 최신개정판](https://www.youtube.com/playlist?list=PL2mUKRt8sXvja0B8w365qn2tgi0AahED9) 강의 듣고 파트별 학습하기
 2) 1의 과정에서 모르는 단어 암기 및 해석이 되지 않는 문장 반복 숙달하기
 3) 해커스 토익 기출 VOCA 단어 암기하기
