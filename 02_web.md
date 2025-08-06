@@ -126,13 +126,14 @@
 ```
 
 (참고자료)
-- [HTML, CSS, JavaScript: 웹 개발의 핵심](https://www.youtube.com/watch?v=phiSW6Pr-gg)으로 HTML, CSS, JS DOM 학습
-- [프론트엔드 입문자를 위한 영상 순서](https://power-oregano-6ec.notion.site/277f2906743742ae8f19b6494581058f) 순서대로 학습하기
+- [HTML, CSS, JavaScript: 웹 개발의 핵심](https://www.youtube.com/watch?v=phiSW6Pr-gg)
+- [프론트엔드 입문자를 위한 영상 순서](https://power-oregano-6ec.notion.site/277f2906743742ae8f19b6494581058f)
 - [노마드코더](https://nomadcoders.co/courses)
-- [프론트엔드 개발 올인원 패키지(FastCampus)](https://fastcampus.co.kr/)로 React 기초 학습하기
-- [React Tutorial](https://react.dev/)로 React 원리 및 주요기능 익히기
-- [브라우저는 어떻게 동작하는가](https://d2.naver.com/helloworld/59361)로 브라우저 원리 파악하기
-- [프론트 기술 면접](https://www.youtube.com/playlist?list=PLBh_4TgylO6CI4Ezq3OLRRzg2NAn3FLPB) 참고하기
+- [프론트엔드 개발 올인원 패키지(FastCampus)](https://fastcampus.co.kr/)
+- [React Tutorial](https://react.dev/)
+- [브라우저는 어떻게 동작하는가](https://d2.naver.com/helloworld/59361)
+- [프론트 기술 면접](https://www.youtube.com/playlist?list=PLBh_4TgylO6CI4Ezq3OLRRzg2NAn3FLPB)
+- [프론트엔드 성능 최적화 가이드](https://product.kyobobook.co.kr/detail/S000200178292)
 
 #### FullStack
 ```
