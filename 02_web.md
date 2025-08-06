@@ -106,13 +106,13 @@
 ```
 
 (참고자료)
-- [2024 백엔드 개발자 로드맵](https://zero-base.co.kr/event/media_BE_school_roadmap)에서 핵심 주제 파악하기
-- [boostcourse 풀스택개발](https://www.boostcourse.org/web316)로 Spring 기초 학습
-- [이것이 취업을 위한 백엔드 개발이다.](https://www.youtube.com/playlist?list=PLVsNizTWUw7FBMFX9pezh5Gxg5AtNmoMv) 백엔드 학습
-- [김영한의 스프링 완전 정복](https://www.inflearn.com/roadmaps/373)로 Spring 학습
-- [데이터베이스 강의를 추천하는 것보다 중요한 것](https://roka88.dev/123) DB 학습 목표 설정하기
-- [코드라뗴의 데이터베이스 강의](https://www.codelatte.io/courses/database_basic)로 DB 학습
-
+- [2024 백엔드 개발자 로드맵](https://zero-base.co.kr/event/media_BE_school_roadmap)
+- [boostcourse 풀스택개발](https://www.boostcourse.org/web316)
+- [이것이 취업을 위한 백엔드 개발이다.](https://www.youtube.com/playlist?list=PLVsNizTWUw7FBMFX9pezh5Gxg5AtNmoMv)
+- [김영한의 스프링 완전 정복](https://www.inflearn.com/roadmaps/373)
+- [데이터베이스 강의를 추천하는 것보다 중요한 것](https://roka88.dev/123)
+- [코드라뗴의 데이터베이스 강의](https://www.codelatte.io/courses/database_basic)
+- [프로젝트로 배우는 데이터베이스 설계](https://product.kyobobook.co.kr/detail/S000214679598)
 
 #### FrontEnd
 ```
@@ -128,15 +128,30 @@
 (참고자료)
 - [HTML, CSS, JavaScript: 웹 개발의 핵심](https://www.youtube.com/watch?v=phiSW6Pr-gg)으로 HTML, CSS, JS DOM 학습
 - [프론트엔드 입문자를 위한 영상 순서](https://power-oregano-6ec.notion.site/277f2906743742ae8f19b6494581058f) 순서대로 학습하기
-- [노마드코더](https://nomadcoders.co/courses)에서 필요한 프로젝트 경험해보기
+- [노마드코더](https://nomadcoders.co/courses)
 - [프론트엔드 개발 올인원 패키지(FastCampus)](https://fastcampus.co.kr/)로 React 기초 학습하기
 - [React Tutorial](https://react.dev/)로 React 원리 및 주요기능 익히기
 - [브라우저는 어떻게 동작하는가](https://d2.naver.com/helloworld/59361)로 브라우저 원리 파악하기
 - [프론트 기술 면접](https://www.youtube.com/playlist?list=PLBh_4TgylO6CI4Ezq3OLRRzg2NAn3FLPB) 참고하기
 
 #### FullStack
-- [노드로 배우는 백엔드 A-Z](https://academy.dream-coding.com/courses/node)로 nodejs, express 기본 학습하기
-- []()
+```
+개발환경: VSCode + JavaScript + NodeJS + Express + Jest
+1) 생활코딩으로 HTML, CSS 입문
+2) 드림코딩의 재생목록의 프론트엔드 강의 듣기
+3) HTML, CSS로 웹 페이지 만들기
+4) 드림코딩의 JavaScript 학습
+5) HTML, CSS, JavaScript로 웹 페이지 만들기
+6) React 학습
+7) NodeJS, Express 학습하기
+```
+
+(참고자료)
+- [생활코딩](https://www.youtube.com/@coohde/playlists)
+- [TCP School](https://tcpschool.com/)
+- [드림코딩](https://www.youtube.com/@dream-coding/playlists)
+- [드림코딩 아카데미](https://academy.dream-coding.com/)
+- [노마드코더](https://nomadcoders.co/courses)
 
 #### 참고자료
 - [Developer Roadmap](https://roadmap.sh/)
