@@ -42,7 +42,7 @@
 
 (임베디드 심화)
 - FPGA 학습하기
-- ...
+- [자율주행제어 이론 및 실습](https://www.kmooc.kr/view/course/detail/16481?tm=20250806223336)
 
 (부트캠프)
 - [한컴아카데미](https://www.hancomacademy.com/aboutus/index.php) 교육 커리큘럼 참고
