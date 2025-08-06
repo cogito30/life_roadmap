@@ -69,12 +69,25 @@
 
 #### 네트워크
 ```
-1) 네트워크관리사(2급)을 준비하며 Network 기본 학습: Protocol, OSI 7 Layer, TCP/IP 4 Layer, 계층별 장비
-2) 
+1) 네트워크관리사(2급)을 준비하며 Network 기본 학습: Protocol, OSI 7 Layer, TCP/IP 4 Layer, 계층별 장비, DNS, IP, URL, 로드밸런싱
+2) TCP/IP 소켓 프로그래밍 실습
+3) WireShark로 패킷 들여다보기
 ```
 
 (참고자료)
-- []()
+- [그림으로 배우는 네트워크 원리](https://product.kyobobook.co.kr/detail/S000000555413)
+- [후니의 쉽게 쓴 시스코 네트워킹](https://product.kyobobook.co.kr/detail/S000000562247)
+- [김길성의 네트워크 딥다이브](https://product.kyobobook.co.kr/detail/S000216406148)
+- [혼자 공부하는 네트워크](https://product.kyobobook.co.kr/detail/S000212911507)
+- [윤성우의 열혈 TCP/IP 소켓 프로그래밍](https://product.kyobobook.co.kr/detail/S000001589146)
+
+#### 운영체제/컴퓨터구조
+```
+```
+
+(참고자료)
+- [ ]()
+- [ ]()
 
 #### BackEnd개발
 - [2024 백엔드 개발자 로드맵](https://zero-base.co.kr/event/media_BE_school_roadmap)에서 핵심 주제 파악하기
