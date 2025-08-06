@@ -64,14 +64,16 @@
 ```
 
 (참고자료)
+- [CodeLatte의 데이터베이스 강의](https://www.codelatte.io/courses/database_basic)
 - [TCP School(MySQL)](https://tcpschool.com/mysql/intro)로 SQL 학습
 - [데이터베이스의 원리와 응용(한양대-백현미)](http://www.kocw.net/home/search/kemView.do?kemId=1163794)로 Database 학습
 
 #### 네트워크
 ```
 1) 네트워크관리사(2급)을 준비하며 Network 기본 학습: Protocol, OSI 7 Layer, TCP/IP 4 Layer, 계층별 장비, DNS, IP, URL, 로드밸런싱
-2) TCP/IP 소켓 프로그래밍 실습
-3) WireShark로 패킷 들여다보기
+2) WireShark로 패킷 들여다보기
+3) TCP/IP 소켓 프로그래밍 실습
+4) 리눅스마스터(2급/1급) 취득하며 네트워크 명령어 확인
 ```
 
 (참고자료)
@@ -83,13 +85,16 @@
 
 #### 운영체제/컴퓨터구조
 ```
+1) OS 학습: CPU Scheduling, DeadLock, Semaphore, Thread, Process, IPC, PCB, Paging, Segmentation, Context Switching, 가상메모리
+2) 리눅스마스터(2급/1급) 취득하며 리눅스 명령어 확인
 ```
 
 (참고자료)
-- [ ]()
-- [ ]()
+- [혼자 공부하는 컴퓨터 구조+운영체제](https://product.kyobobook.co.kr/detail/S000061584886)
+- [컴퓨터 구조와 운영체제 핵심 노트](https://product.kyobobook.co.kr/detail/S000213378762)
+- [밑바닥부터 만드는 컴퓨팅 시스템](https://product.kyobobook.co.kr/detail/S000201485097)
 
-#### BackEnd개발
+#### BackEnd
 - [2024 백엔드 개발자 로드맵](https://zero-base.co.kr/event/media_BE_school_roadmap)에서 핵심 주제 파악하기
 - [boostcourse 풀스택개발](https://www.boostcourse.org/web316)로 Spring 기초 학습
 - [이것이 취업을 위한 백엔드 개발이다.](https://www.youtube.com/playlist?list=PLVsNizTWUw7FBMFX9pezh5Gxg5AtNmoMv) 백엔드 학습
@@ -98,7 +103,7 @@
 - [코드라뗴의 데이터베이스 강의](https://www.codelatte.io/courses/database_basic)로 DB 학습
 
 
-#### FrontEnd개발
+#### FrontEnd
 - [HTML, CSS, JavaScript: 웹 개발의 핵심](https://www.youtube.com/watch?v=phiSW6Pr-gg)으로 HTML, CSS, JS DOM 학습
 - [프론트엔드 입문자를 위한 영상 순서](https://power-oregano-6ec.notion.site/277f2906743742ae8f19b6494581058f) 순서대로 학습하기
 - [노마드코더](https://nomadcoders.co/courses)에서 필요한 프로젝트 경험해보기
@@ -107,11 +112,11 @@
 - [브라우저는 어떻게 동작하는가](https://d2.naver.com/helloworld/59361)로 브라우저 원리 파악하기
 - [프론트 기술 면접](https://www.youtube.com/playlist?list=PLBh_4TgylO6CI4Ezq3OLRRzg2NAn3FLPB) 참고하기
 
-(FullStack개발: JS/NodeJS/Express/NestJS)
+#### FullStack
 - [노드로 배우는 백엔드 A-Z](https://academy.dream-coding.com/courses/node)로 nodejs, express 기본 학습하기
 - []()
 
-## 참고자료
+#### 참고자료
 - [Developer Roadmap](https://roadmap.sh/)
 - [DreamHack](https://dreamhack.io/)
 - [Inpa Dev](https://inpa.tistory.com/)
