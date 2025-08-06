@@ -25,7 +25,7 @@
 ```
 1) 언어별 특징 확인
 2) 개발환경 설정: VisualStudio / VSCode / CLion / IntelliJ / PyCharm / WebStrom
-
+```
 
 (참고자료)
 - [C: C언어 코딩 도장](https://product.kyobobook.co.kr/detail/S000200764041)
@@ -57,12 +57,26 @@
 - [Solved.ac(Baekjoon Online Judge)](https://solved.ac/en/class)
 - [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
+#### 데이터베이스
+```
+1) SQLD를 준비하며 Database 기본 학습: SQL, ACID, 트랜잭션, 인덱스, 정규화/비정규화, 데이터모델링(UML), Schema, Table
+2) MYSQL 문법 학습: DDL, DCL, DML, TCL
+```
 
-(SQL)
+(참고자료)
 - [TCP School(MySQL)](https://tcpschool.com/mysql/intro)로 SQL 학습
 - [데이터베이스의 원리와 응용(한양대-백현미)](http://www.kocw.net/home/search/kemView.do?kemId=1163794)로 Database 학습
 
-(BackEnd개발: Java/Spring)
+#### 네트워크
+```
+1) 네트워크관리사(2급)을 준비하며 Network 기본 학습: Protocol, OSI 7 Layer, TCP/IP 4 Layer, 계층별 장비
+2) 
+```
+
+(참고자료)
+- []()
+
+#### BackEnd개발
 - [2024 백엔드 개발자 로드맵](https://zero-base.co.kr/event/media_BE_school_roadmap)에서 핵심 주제 파악하기
 - [boostcourse 풀스택개발](https://www.boostcourse.org/web316)로 Spring 기초 학습
 - [이것이 취업을 위한 백엔드 개발이다.](https://www.youtube.com/playlist?list=PLVsNizTWUw7FBMFX9pezh5Gxg5AtNmoMv) 백엔드 학습
@@ -70,10 +84,8 @@
 - [데이터베이스 강의를 추천하는 것보다 중요한 것](https://roka88.dev/123) DB 학습 목표 설정하기
 - [코드라뗴의 데이터베이스 강의](https://www.codelatte.io/courses/database_basic)로 DB 학습
 
-(JavaScript)
-- [Modern JavaScript](https://ko.javascript.info/)로 JavaScript 기본 문법 학습
 
-(FrontEnd개발: JavaScript/React/Redux/Webpack)
+#### FrontEnd개발
 - [HTML, CSS, JavaScript: 웹 개발의 핵심](https://www.youtube.com/watch?v=phiSW6Pr-gg)으로 HTML, CSS, JS DOM 학습
 - [프론트엔드 입문자를 위한 영상 순서](https://power-oregano-6ec.notion.site/277f2906743742ae8f19b6494581058f) 순서대로 학습하기
 - [노마드코더](https://nomadcoders.co/courses)에서 필요한 프로젝트 경험해보기
