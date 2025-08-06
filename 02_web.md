@@ -25,6 +25,9 @@
 ```
 1) 언어별 특징 확인
 2) 개발환경 설정: VisualStudio / VSCode / CLion / IntelliJ / PyCharm / WebStrom
+3) 기본 문법: 변수, 자료형, 상수 / 제어문(조건문, 반복문, continue, break) / 함수 / 포인터 / 배열 / 클래스 / 예외처리 / 입출력 / 파일입출력
+4) 언어별 주요라이브러: STL
+5) 코딩컨벤션: Google Style, Airbnb Style
 ```
 
 (참고자료)
@@ -92,9 +95,17 @@
 (참고자료)
 - [혼자 공부하는 컴퓨터 구조+운영체제](https://product.kyobobook.co.kr/detail/S000061584886)
 - [컴퓨터 구조와 운영체제 핵심 노트](https://product.kyobobook.co.kr/detail/S000213378762)
-- [밑바닥부터 만드는 컴퓨팅 시스템](https://product.kyobobook.co.kr/detail/S000201485097)
+- [밑바닥부터 만드는 컴퓨팅 시스템](https://product.kyobobook.co.kr/detail/S000201485097)
 
 #### BackEnd
+```
+개발환경: IntelliJ + Java + Spring + JPA
+1) 이것이 백엔드 개발이다
+2) boostcourse(풀스택)
+3) 김영한의 Spring 완전정복
+```
+
+(참고자료)
 - [2024 백엔드 개발자 로드맵](https://zero-base.co.kr/event/media_BE_school_roadmap)에서 핵심 주제 파악하기
 - [boostcourse 풀스택개발](https://www.boostcourse.org/web316)로 Spring 기초 학습
 - [이것이 취업을 위한 백엔드 개발이다.](https://www.youtube.com/playlist?list=PLVsNizTWUw7FBMFX9pezh5Gxg5AtNmoMv) 백엔드 학습
@@ -104,6 +115,17 @@
 
 
 #### FrontEnd
+```
+개발환경: VSCode + HTML + CSS + ECMAScript + React + Redux + NextJS
+1) HTML 학습: Semantic Tag / 제목, 텍스트 / 링크 / 멀티미디어 / 폼
+2) CSS 학습: 선택자 / Layout / 텍스트 / 배경 / 애니메이션
+3) JavaScript API 학습: DOM
+4) React 학습: Virtual DOM, React Hook
+5) Bundler 학습: Webpack
+6) NextJS 학습
+```
+
+(참고자료)
 - [HTML, CSS, JavaScript: 웹 개발의 핵심](https://www.youtube.com/watch?v=phiSW6Pr-gg)으로 HTML, CSS, JS DOM 학습
 - [프론트엔드 입문자를 위한 영상 순서](https://power-oregano-6ec.notion.site/277f2906743742ae8f19b6494581058f) 순서대로 학습하기
 - [노마드코더](https://nomadcoders.co/courses)에서 필요한 프로젝트 경험해보기
@@ -137,3 +159,5 @@
 #### 정보보안기사
 - 필기1: 54점(2025.06.20)
 - 필기2:
+#### 리눅스마스터(1급)
+- 필기:
