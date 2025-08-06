@@ -1,10 +1,10 @@
 # Engilsh
 
 ## Object
-- Listening: 영어 강의 듣기
-- Reading: 공식문서(영어) 읽기
-- Speaking: 영어로 정보 전달/설명하기
-- Writing: 영어로 문서 작성하기
+- Listening: 정보취득을 위한 듣기 / 의사소통을 위한 듣기
+- Reading: 정보취득을 위한 공식문서 및 정리된 글 읽기
+- Speaking: 정보 및 의견 전달
+- Writing: 문서 작성
 - 핵심: 기본 문법 + 단어 암기 + 문장 암기
 
 ## 기준 점수
