@@ -18,7 +18,7 @@
 
 
 ## 학습방법
-(TOEIC Speaking)
+#### TOEIC Speaking
 ```
 (시계토끼제니쌤)
 1) 독학용 파트별 핵심강의 듣고 유형별 템플릿 암기
@@ -35,7 +35,7 @@
 - [해커스TV의 토익스피킹 1000문장](https://www.youtube.com/watch?v=C5zdRPnhJFM)의 문장 암기
 - [제이크 토익스피킹의 토익스피킹 필수 문장](https://www.youtube.com/playlist?list=PLi5ZeXp0sQKiSwulTYx8SRGSM8M4-o74h)의 문장 암기
 
-(TOEIC)
+#### TOEIC
 ```
 (LC: ETS 토익 단기공략 750+ 최신개정판 Unit별 풀이)
 1) 듣고 문제풀이
@@ -66,14 +66,14 @@
 - [해커스 토익 RC Reading 기본서](https://product.kyobobook.co.kr/detail/S000200406668): 800을 넘기고 나서 선택할 심화 기본서
 - [해커스 토익 LC Listening 기본서](https://product.kyobobook.co.kr/detail/S000200406673): 800을 넘기고 나서 선택할 심화 기본서
 
-(TOEIC Writing)
+#### TOEIC Writing
 1) ETS 토익라이팅 기출 공식대비서 문제풀고 정리하기
 
 (OPIC)
 1) [해커스TV의 OPIC 시험 유형 정리](https://www.youtube.com/watch?v=Jj8hzv-j5LE)로 OPIC 시험 유형 파악하기
 2) [제인서의 이지오픽: 오픽 필수 문장](https://www.youtube.com/playlist?list=PL_xkJr-3mXFg0MvwjvnV1biI8KEIbpdOW)의 문장 암기
 
-(IELTS)
+#### IELTS
 1) 해커스 아이엘츠 라이팅/리딩/리스닝/스피킹 베이직 풀고 정리하기
 2) 해커스 보카 암기
 3) 해커스 아이엘츠 라이팅/리딩/리스닝/스피킹 풀고 정리하기
