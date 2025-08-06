@@ -1,8 +1,8 @@
 # Web
 
 ## Object
+- SW 기본인 네트워크, 데이터베이스, 운영체제/컴퓨터구조, 알고리즘에 대한 이해
 - 문제해결력을 위한 Programmers(Lv3+) 이상의 알고리즘 열량
-- 네트워크, 데이터베이스, 운영체제 기본 용어에 대한 이해
 
 ## 기준 점수
 | 시험명 | 취득사유 |
@@ -21,12 +21,42 @@
 3) 웹개발에 해당하는 기본 이른 학습
 4) 프레임워크를 하나 선정하여 프로젝트 진행. 상세한 구현은 검색을 해가며 진행하고 주요 개념/키워드만 기억할 것
 ```
-(Java)
-- 이것이 자바다 교재로 Java 기본 문법 학습
+#### 프로그래밍언어
+```
+1) 언어별 특징 확인
+2) 개발환경 설정: VisualStudio / VSCode / CLion / IntelliJ / PyCharm / WebStrom
 
-(알고리즘)
-- 코딩테스트에 필요한 Java 기본 라이브러리 메서드 암기
-- [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)에서 Lv3까지 순서대로 풀기
+
+(참고자료)
+- [C: C언어 코딩 도장](https://product.kyobobook.co.kr/detail/S000200764041)
+- [C: 모두의 코드](https://modoocode.com/231)
+- [C++: 명품 C++ Programming](https://product.kyobobook.co.kr/detail/S000217111234)
+- [C++: 모두의 코드](https://modoocode.com/135)
+- [Java: 이것이 자바다](https://product.kyobobook.co.kr/detail/S000212853100)
+- [Python: 점프 투 파이썬](https://wikidocs.net/book/1)
+- [JavaScript: ModernJavaScript](https://ko.javascript.info/)
+
+#### 알고리즘
+```
+1) 자료구조 학습: 배열 / 연결리스트 / 스택 / 큐 / 덱 / 해시(맵) / 셋 / 트리 / 그래프 / 힙 / RB-Tree / B-Tree / AVL-Tree
+2) 알고리즘 학습: 정렬 / 수학(소수, 순열, 조합, LCM, GCD) / 그리디 / 시뮬레이션 / 이분탐색 / DFS, BFS / 백트래킹 / Djkstra / 동적계획법
+4) 코딩테스트를 통해 알고리즘 활용 연습
+```
+
+(참고자료)
+- [윤성우의 열혈 자료구조](https://product.kyobobook.co.kr/detail/S000001589149)
+- [이것이 자료구조+알고리즘 with C 언어](https://product.kyobobook.co.kr/detail/S000061585515)
+- [Introduction To Algorithm](https://product.kyobobook.co.kr/detail/S000213683944)
+- [C++: 문제풀이로 완성하는 알고리즘+자료구조](https://product.kyobobook.co.kr/detail/S000214420933)
+- [C++: 바킹독의 실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98?page=2)
+- [Java: 프로그래머스 코딩 테스트 문제 풀이 전략](https://product.kyobobook.co.kr/detail/S000200928002)
+- [Python: 프로그래머스 코딩 테스트 문제 풀이 전략](https://product.kyobobook.co.kr/detail/S000200927968)
+- [Python: 이것이 코딩 테스트다](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
+- [JavaScript: 코딩 테스트 합격자 되기](https://product.kyobobook.co.kr/detail/S000213641007)
+- [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)
+- [Solved.ac(Baekjoon Online Judge)](https://solved.ac/en/class)
+- [SW Expert Academy](https://swexpertacademy.com/main/main.do)
+
 
 (SQL)
 - [TCP School(MySQL)](https://tcpschool.com/mysql/intro)로 SQL 학습
@@ -39,7 +69,6 @@
 - [김영한의 스프링 완전 정복](https://www.inflearn.com/roadmaps/373)로 Spring 학습
 - [데이터베이스 강의를 추천하는 것보다 중요한 것](https://roka88.dev/123) DB 학습 목표 설정하기
 - [코드라뗴의 데이터베이스 강의](https://www.codelatte.io/courses/database_basic)로 DB 학습
-
 
 (JavaScript)
 - [Modern JavaScript](https://ko.javascript.info/)로 JavaScript 기본 문법 학습
