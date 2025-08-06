@@ -95,7 +95,7 @@
 (참고자료)
 - [혼자 공부하는 컴퓨터 구조+운영체제](https://product.kyobobook.co.kr/detail/S000061584886)
 - [컴퓨터 구조와 운영체제 핵심 노트](https://product.kyobobook.co.kr/detail/S000213378762)
-- [밑바닥부터 만드는 컴퓨팅 시스템](https://product.kyobobook.co.kr/detail/S000201485097)
+- [밑바닥부터 만드는 컴퓨팅 시스템](https://product.kyobobook.co.kr/detail/S000201485097)
 
 #### BackEnd
 ```
