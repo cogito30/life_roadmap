@@ -87,10 +87,10 @@ ETS 토익 단기공략 750+ 최신개정판 -> 해커스 토익 기출 VOCA -> 
 
 (참고자료)
 - [해커스 보카](https://product.kyobobook.co.kr/detail/S000001020123)
-- [해커스 아이엘츠 리딩 베이직](https://product.kyobobook.co.kr/detail/S000001020191)
-- [해커스 아이엘츠 라이팅 베이직](https://product.kyobobook.co.kr/detail/S000001020193)
-- [해커스 아이엘츠 리스닝 베이직](https://product.kyobobook.co.kr/detail/S000001020192)
-- [해커스 아이엘츠 스피킹 베이직](https://product.kyobobook.co.kr/detail/S000001020195)
+- [해커스 아이엘츠 리딩 베이직](https://product.kyobobook.co.kr/detail/S000001020191)
+- [해커스 아이엘츠 라이팅 베이직](https://product.kyobobook.co.kr/detail/S000001020193)
+- [해커스 아이엘츠 리스닝 베이직](https://product.kyobobook.co.kr/detail/S000001020192)
+- [해커스 아이엘츠 스피킹 베이직](https://product.kyobobook.co.kr/detail/S000001020195)
 - [스타 IELTS 실전 Writing](https://product.kyobobook.co.kr/detail/S000001063409)
 - [IELTS English Academy](https://www.youtube.com/@ieltsenglishacademy/videos)
 
