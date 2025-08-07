@@ -105,3 +105,4 @@
 - [HongLab](https://www.honglab.ai/)
 - [Microchip](https://mu.microchip.com/page/kmu)
 - [한국과학창의재단](https://www.kosac.re.kr/menus/1122/contents/1122)
+- [KOSAC AI교육](https://sai.software.kr/main)
