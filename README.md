@@ -89,3 +89,19 @@
 - [ChatGPT](https://chatgpt.com/)
 - [PerPlexity](https://www.perplexity.ai/?login-source=oneTapHome&login-new=false)
 - [Claude](https://claude.ai/login?returnTo=%2F%3F)
+
+## 학습 사이트 모음
+- [DreamHack](https://dreamhack.io/)
+- [KOCW](https://www.kocw.net/home/index.do)
+- [K-Mooc](https://www.kmooc.kr/)
+- [boostcourse](https://www.boostcourse.org/)
+- [Udemy](https://www.udemy.com/)
+- [Coursera](https://www.coursera.org/)
+- [Udacity](https://www.udacity.com/)
+- [네이버 비즈니스 스쿨](https://bizschool.naver.com/)
+- [freeCodeCamp](https://www.youtube.com/@freecodecamp/videos)
+- [인프런](https://www.inflearn.com/)
+- [패스트캠퍼스](https://fastcampus.co.kr/)
+- [HongLab](https://www.honglab.ai/)
+- [Microchip](https://mu.microchip.com/page/kmu)
+
