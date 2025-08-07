@@ -18,7 +18,7 @@
 3) 게임개발에 해당하는 기본 이른 학습
 4) 프레임워크(UnrealEngine, Unity)를 하나 선정하여 프로젝트 진행. 상세한 구현은 검색을 해가며 진행하고 주요 개념/키워드만 기억할 것
 ```
-(C, C++, C#)
+
 (참고자료)
 - [C: C언어 코딩 도장](https://product.kyobobook.co.kr/detail/S000200764041)
 - [C: 모두의 코드](https://modoocode.com/231)
@@ -48,18 +48,29 @@
 
 #### 게임 클라이언트 개발
 ```
-1) 
+1) Unreal Engine KR의 시작해요 언리얼 2024 재생목록에서 게임제작을 위한 시작해요 언리얼 학습하기
+2) 이득우의 언리얼 프로그래밍 듣기
+3) 공식문서를 보며 기능별 따라하기
 ```
-- [이득우의 언리얼 프로그래밍 로드맵](https://www.inflearn.com/roadmaps/701?srsltid=AfmBOoqsr2OYqmPvkjXm6L-7CwCSy6kIAqxUROmYSaqVowih30A6wCq1) 학습하기
-- [골드메탈의 Unity](https://www.youtube.com/@goldmetal/videos)로 기본 학습하기
-- [Unity Learn](https://learn.unity.com/)에서 필요한 부분 학습하기
-- [에픽 라운지](https://epiclounge.co.kr/index_ufs25.php)에서 Unreal 관련 기본기 학습
-- [UnrealEngine Learn](https://dev.epicgames.com/community/unreal-engine/getting-started)에서 필요한 부분 학습하기
+- [이득우의 언리얼 프로그래밍 로드맵](https://www.inflearn.com/roadmaps/701?srsltid=AfmBOoqsr2OYqmPvkjXm6L-7CwCSy6kIAqxUROmYSaqVowih30A6wCq1)
+- [Unreal Engine KR](https://www.youtube.com/@unrealenginekr)
+- [골드메탈의 Unity](https://www.youtube.com/@goldmetal/videos)
+- [Unity Learn](https://learn.unity.com/)
+- [에픽 라운지](https://epiclounge.co.kr/index_ufs25.php)
+- [UnrealEngine Learn](https://dev.epicgames.com/community/unreal-engine/getting-started)
+- [레트로의 유니티 6 게임 프로그래밍 에센스](https://product.kyobobook.co.kr/detail/S000215787646)
+
 
 #### 게임 서버 개발
 ```
+
 ```
+
+(참고자료)
 - [게임 서버 개발자가 알아야할 TCP/IP Windows 소켓 프로그래밍](https://www.youtube.com/playlist?list=PLW_xyUw4fSdZ9E4SaOOydJOiuFGchy5HI)
+- [게임 서버 프로그래밍 교과서](https://product.kyobobook.co.kr/detail/S000001792817)
+- [멀티플레이어 게임 프로그래밍](https://product.kyobobook.co.kr/detail/S000001792473)
 
 ## 점수기록
+
 #### 게임프로그래밍 전문가
