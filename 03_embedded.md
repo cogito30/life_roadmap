@@ -72,7 +72,7 @@
 - [임베디드 레시피](https://recipes.tistory.com/)
 - [리눅스 커널 구조와 원리 1,2](https://www.inflearn.com/users/1180851/courses)
 - [Arm 아키텍처](https://www.inflearn.com/users/1180851/courses)
-- [그라운드 임베디드](https://www.youtube.com/@GROUND_EMBEDDED/videos)
+- 
 - [고급 리눅스 API 1,2]()
 
 #### 임베디드 심화
@@ -81,16 +81,19 @@
 2)
 3) 
 ```
-
 (참고자료)
+
 - FPGA 학습하기
 - [자율주행제어 이론 및 실습](https://www.kmooc.kr/view/course/detail/16481?tm=20250806223336)
 
-(부트캠프)
+
+#### 참고자료
 - [한컴아카데미](https://www.hancomacademy.com/aboutus/index.php) 교육 커리큘럼 참고
 - [한컴아카데미: 오프라인교육](https://edu.hancomacademy.com/about/loadmap.php) 교육 커리큘럼 참고
 - [전자회로설계교육 카페](https://cafe.naver.com/modulecircuit)
 - [오제이 튜브](https://www.youtube.com/@OJTube)
+- [그라운드 임베디드](https://www.youtube.com/@GROUND_EMBEDDED/videos)
+- [현대모비스 모빌리티부트캠프](https://likelion.net/event/mobius-bootcamp?utm_source=google&utm_medium=search&utm_campaign=b2bhdmb01_google_search_pcmo_2507_new&utm_content=sitelink_2&utm_term=new_1834_pcmo&gad_source=1&gad_campaignid=22844925721&gbraid=0AAAAACxDLuGfNZVFJikgtlRESTcllc-XR&gclid=CjwKCAjw49vEBhAVEiwADnMbbFfZsAeZisp1EzelVhPMp4nCUKlIb3mc49X8k8u2MhjblEZTDvzJdhoCZQ0QAvD_BwE)
 
 ## 점수기록
 #### 리눅스마스터(1급)
