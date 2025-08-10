@@ -84,6 +84,7 @@
 3) 
 ```
 (참고자료)
+- [전동킥보드로 배우는 임베디드 실전 프로젝트](https://www.inflearn.com/course/%EC%A0%84%EB%8F%99%ED%82%A5%EB%B3%B4%EB%93%9C%EA%B0%9C%EB%B0%9C-%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90)
 - [시스템 소프트웨어 개발자를 위한 Arm - basic course](https://www.inflearn.com/roadmaps/763)
 - [시스템 소프트웨어 개발자를 위한 Arm - advanced course](https://www.inflearn.com/roadmaps/760)
 - [시스템 소프트웨어 개발을 위한 Arm 아키텍처의 구조와 원리](https://product.kyobobook.co.kr/detail/S000202671443)
