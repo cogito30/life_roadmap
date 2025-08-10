@@ -74,8 +74,8 @@
 - [임베디드 레시피](https://recipes.tistory.com/)
 - [리눅스 커널 구조와 원리 1,2](https://www.inflearn.com/users/1180851/courses)
 - [Arm 아키텍처](https://www.inflearn.com/users/1180851/courses)
-- 
-- [고급 리눅스 API 1,2]()
+
+
 
 #### 임베디드 심화
 ```
@@ -93,6 +93,10 @@
 - [설계독학맛비의 Verilog HDL, FPGA, AI HW, BUS - 비메모리설계 엔지니어](https://www.inflearn.com/roadmaps/470)
 - [삼코치 회로설계 올인원 Class 로드맵](https://www.inflearn.com/roadmaps/6876)
 - [자율주행제어 이론 및 실습](https://www.kmooc.kr/view/course/detail/16481?tm=20250806223336)
+
+#### 반도체회로설계
+
+- [삼코치 회로설계 올인원 Class 로드맵](https://www.inflearn.com/roadmaps/6876)
 
 
 #### 참고자료
