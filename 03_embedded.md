@@ -92,7 +92,7 @@
 - [리눅스 커널의 구조와 원리2](https://product.kyobobook.co.kr/detail/S000001766422)
 - [시스템 소프트웨어 개발자를 위한 RISC-V 아키텍처](https://www.inflearn.com/roadmaps/9218)
 - [설계독학맛비의 Verilog HDL, FPGA, AI HW, BUS - 비메모리설계 엔지니어](https://www.inflearn.com/roadmaps/470)
-- [삼코치 회로설계 올인원 Class 로드맵](https://www.inflearn.com/roadmaps/6876)
+- [삼코치 회로설계 올인원 Class 로드맵](https://www.inflearn.com/roadmaps/6876)
 - [자율주행제어 이론 및 실습](https://www.kmooc.kr/view/course/detail/16481?tm=20250806223336)
 
 #### 반도체회로설계
