@@ -56,14 +56,16 @@
 
 #### 임베디드 기본
 ```
-1) 
-2) 
-3) 
-4) 
+1) 사물인터넷을 위한 리눅스 프로그래밍 with 라즈베리파이 교재 읽기
+2) Embedded Sketches 교재 읽기
+3) Embedded Recipes 교재 읽기
+4) OJTube의 임베디드 개발
 ```
 
 (참고자료)
 - [연세대 정한울 교수닝의 강의](https://www.youtube.com/@docceptor195/videos)
+- [OJTube의 임베디드 개발](https://www.inflearn.com/course/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8)
+- [0에서 시작하는 자동차 소프트웨어 개발자 로드맵](https://www.inflearn.com/roadmaps/3470)
 - Arduino -> RaspberryPi -> ARM(Cortex)
 - [임베디드 소프트웨어 베이직 with 라즈베리파이](https://product.kyobobook.co.kr/detail/S000208470319)
 - [CAN 통신](https://www.inflearn.com/users/462221/courses) 
@@ -82,8 +84,14 @@
 3) 
 ```
 (참고자료)
-
-- FPGA 학습하기
+- [시스템 소프트웨어 개발자를 위한 Arm - basic course](https://www.inflearn.com/roadmaps/763)
+- [시스템 소프트웨어 개발자를 위한 Arm - advanced course](https://www.inflearn.com/roadmaps/760)
+- [시스템 소프트웨어 개발을 위한 Arm 아키텍처의 구조와 원리](https://product.kyobobook.co.kr/detail/S000202671443)
+- [리눅스 커널의 구조와 원리1](https://product.kyobobook.co.kr/detail/S000001766421)
+- [리눅스 커널의 구조와 원리2](https://product.kyobobook.co.kr/detail/S000001766422)
+- [시스템 소프트웨어 개발자를 위한 RISC-V 아키텍처](https://www.inflearn.com/roadmaps/9218)
+- [설계독학맛비의 Verilog HDL, FPGA, AI HW, BUS - 비메모리설계 엔지니어](https://www.inflearn.com/roadmaps/470)
+- [삼코치 회로설계 올인원 Class 로드맵](https://www.inflearn.com/roadmaps/6876)
 - [자율주행제어 이론 및 실습](https://www.kmooc.kr/view/course/detail/16481?tm=20250806223336)
 
 
