@@ -100,19 +100,24 @@
 #### BackEnd
 ```
 개발환경: IntelliJ + Java + Spring + JPA
-1) 이것이 백엔드 개발이다
-2) boostcourse(풀스택)
-3) 김영한의 Spring 완전정복
+1) 이것이 백엔드 개발이다 교재 읽가
+2) boostcourse(풀스택) 강의 듣기
+3) 김영한의 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 강의 듣기
+4) 김영한의 스프링 핵심 원리 - 기본편 강의 듣기
+5) 프로젝트로 배우는 데이터베이스 설계 교재 읽기
 ```
 
 (참고자료)
-- [2024 백엔드 개발자 로드맵](https://zero-base.co.kr/event/media_BE_school_roadmap)
-- [boostcourse 풀스택개발](https://www.boostcourse.org/web316)
 - [이것이 취업을 위한 백엔드 개발이다.](https://www.youtube.com/playlist?list=PLVsNizTWUw7FBMFX9pezh5Gxg5AtNmoMv)
+- [boostcourse 풀스택개발](https://www.boostcourse.org/web316)
 - [김영한의 스프링 완전 정복](https://www.inflearn.com/roadmaps/373)
+- [프로젝트로 배우는 데이터베이스 설계](https://product.kyobobook.co.kr/detail/S000214679598)
+- [가상 면접 사례로 배우는 대규모 시스템 설계 기초1](https://product.kyobobook.co.kr/detail/S000001033116)
+- [가상 면접 사례로 배우는 대규모 시스템 설계 기초2](https://product.kyobobook.co.kr/detail/S000211656186)
+- [시스템 설계 면접 완벽 가이드](https://product.kyobobook.co.kr/detail/S000216400799)
 - [데이터베이스 강의를 추천하는 것보다 중요한 것](https://roka88.dev/123)
 - [코드라뗴의 데이터베이스 강의](https://www.codelatte.io/courses/database_basic)
-- [프로젝트로 배우는 데이터베이스 설계](https://product.kyobobook.co.kr/detail/S000214679598)
+- [2024 백엔드 개발자 로드맵](https://zero-base.co.kr/event/media_BE_school_roadmap)
 
 #### FrontEnd
 ```
