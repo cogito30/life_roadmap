@@ -16,31 +16,73 @@
 - **굵은 글씨** 표시가 있는 것은 최소 필수 조건
 
 ## 학습방법
-(C, C++)
-- [모두의 코드](https://modoocode.com/)로 C, C++ 기본 문법 학습
-- 명품 C++ 프로그래밍 교재로 기본 문법 학습
+```
+1) 프로그램 언어 기본 문법 학습. 주요 개념, 키워드 암기
+2) 알고리즘 학습후 코딩테스트를 통해 점검
+3) 임베디드에 해당하는 기본 이론 학습
+4) 프로젝트를 선정하여 진행에 필요한 세부 내용 학습. 주요/키워드 기록하기
+```
+#### 프로그래밍언어
+```
+1) 언어별 특징 확인
+2) 개발환경 설정: VisualStudio / VSCode / CLion 
+3) 기본 문법: 변수, 자료형, 상수 / 제어문(조건문, 반복문, continue, break) / 함수 / 포인터 / 배열 / 클래스 / 예외처리 / 입출력 / 파일입출력
+4) 언어별 주요라이브러: STL
+5) 코딩컨벤션: Google Style
+```
 
-(알고리즘)
-- 코딩테스트에 필요한 C++ STL 암기
-- [SW Expert Academy](https://swexpertacademy.com/main/learn/referenceCode/referenceCodeList.do)에서 유형별 기본기 학습
-- [문제풀이로 완성하는 알고리즘 + 자료구조(C++)](https://product.kyobobook.co.kr/detail/S000214420933) 학습
-- [바킹독의 실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98?page=2)으로 문제 유형 학습하기
-- [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)에서 Lv3까지 순서대로 풀기
-- [Solved.ac](https://solved.ac/en)에서 Class5까지 풀기
+(참고자료)
+- [C: C언어 코딩 도장](https://product.kyobobook.co.kr/detail/S000200764041)
+- [C: 모두의 코드](https://modoocode.com/231)
+- [C++: 명품 C++ Programming](https://product.kyobobook.co.kr/detail/S000217111234)
+- [C++: 모두의 코드](https://modoocode.com/135)
 
-(임베디드 기본)
-- [연세대 정한울 교수닝의 강의](https://www.youtube.com/@docceptor195/videos)로 디지털회로 기본 학습
-- Arduino -> RaspberryPi -> ARM(Cortex) 순서로 학습하기
-- [임베디드 소프트웨어 베이직 with 라즈베리파이](https://product.kyobobook.co.kr/detail/S000208470319) 교재로 기본기 학습하기
-- 임베디드 스크래치 교재로 회로 기본기 학습하기
-- [CAN 통신](https://www.inflearn.com/users/462221/courses) 학습하기
-- [OJ Tube의 임베디드 개발(입문)](https://www.inflearn.com/course/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8) 참고하여 임베디드 기본 학습
-- [임베디드 레시피](https://recipes.tistory.com/) 교재 로 회로 기본기 학습하기
-- [리눅스 커널 구조와 원리 1,2](https://www.inflearn.com/users/1180851/courses) 교재 학습하기
-- [Arm 아키텍처](https://www.inflearn.com/users/1180851/courses) 교재 학습하기
-- 고급 리눅스 API 1,2 교재 참고자료로 구매하기
+#### 알고리즘
+```
+1) 자료구조 학습: 배열 / 연결리스트 / 스택 / 큐 / 덱 / 해시(맵) / 셋 / 트리 / 그래프 / 힙 / RB-Tree / B-Tree / AVL-Tree
+2) 알고리즘 학습: 재귀 / 정렬 / 수학(소수, 순열, 조합, LCM, GCD) / 그리디 / 시뮬레이션 / 이분탐색 / DFS, BFS / 백트래킹 / Djkstra / 동적계획법
+4) 코딩테스트를 통해 알고리즘 활용 연습
+```
 
-(임베디드 심화)
+(참고자료)
+- [윤성우의 열혈 자료구조](https://product.kyobobook.co.kr/detail/S000001589149)
+- [이것이 자료구조+알고리즘 with C 언어](https://product.kyobobook.co.kr/detail/S000061585515)
+- [Introduction To Algorithm](https://product.kyobobook.co.kr/detail/S000213683944)
+- [C++: 문제풀이로 완성하는 알고리즘+자료구조](https://product.kyobobook.co.kr/detail/S000214420933)
+- [C++: 바킹독의 실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98?page=2)
+- [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)
+- [Solved.ac(Baekjoon Online Judge)](https://solved.ac/en/class)
+- [SW Expert Academy](https://swexpertacademy.com/main/main.do)
+
+#### 임베디드 기본
+```
+1) 
+2) 
+3) 
+4) 
+```
+
+(참고자료)
+- [연세대 정한울 교수닝의 강의](https://www.youtube.com/@docceptor195/videos)
+- Arduino -> RaspberryPi -> ARM(Cortex)
+- [임베디드 소프트웨어 베이직 with 라즈베리파이](https://product.kyobobook.co.kr/detail/S000208470319)
+- [CAN 통신](https://www.inflearn.com/users/462221/courses) 
+- [OJ Tube의 임베디드 개발(입문)](https://www.inflearn.com/course/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8)
+- [임베디드 스크래치]()
+- [임베디드 레시피](https://recipes.tistory.com/)
+- [리눅스 커널 구조와 원리 1,2](https://www.inflearn.com/users/1180851/courses)
+- [Arm 아키텍처](https://www.inflearn.com/users/1180851/courses)
+- [그라운드 임베디드](https://www.youtube.com/@GROUND_EMBEDDED/videos)
+- [고급 리눅스 API 1,2]()
+
+#### 임베디드 심화
+```
+1)
+2)
+3) 
+```
+
+(참고자료)
 - FPGA 학습하기
 - [자율주행제어 이론 및 실습](https://www.kmooc.kr/view/course/detail/16481?tm=20250806223336)
 
