@@ -12,15 +12,30 @@
 - [Webpack](https://webpack.kr/)
 - [Vite](https://ko.vite.dev/guide/)
 - [KRDS](https://www.krds.go.kr/html/site/index.html)
+- [Three.js](https://threejs.org/)
+- [WebGL](https://webglfundamentals.org/webgl/lessons/ko/)
+- [WebGL2](https://webgl2fundamentals.org/webgl/lessons/ko/)
 
 ## BackEnd
-
+- [RFC Editor](https://www.rfc-editor.org/)
+- [JDK 21 Documentation](https://docs.oracle.com/en/java/javase/21/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Maven Repository](https://mvnrepository.com/)
+- [표준프레임워크 eGovFrame](https://www.egovframe.go.kr/home/main.do)
+- [MyBatis](https://mybatis.org/mybatis-3/ko/index.html)
+- [NodeJS](https://nodejs.org/ko/)
+- [Express](https://expressjs.com/)
+- [Django](https://www.djangoproject.com/)
+- [DjangoRestFramework](https://www.django-rest-framework.org/)
+- [FastAPI](https://fastapi.tiangolo.com/ko/)
+- [Nginx](https://nginx.org/en/)
 
 ## AI
 - [pandas](https://pandas.pydata.org/)
 - [matplotlib](https://matplotlib.org/)
 - [seaborn](https://seaborn.pydata.org/)
 - [plotly](https://plotly.com/python/)
+- [OpenCV](https://opencv.org/)
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [tensorflow](https://www.tensorflow.org/)
 - [pytorch](https://pytorch.org/)
@@ -36,3 +51,5 @@
 - [ICML](https://icml.cc/)
 - [IJCAL](https://www.ijcai.org/)
 - [Open Data Science Conference](https://odsc.com/)
+
+
