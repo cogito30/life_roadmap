@@ -113,7 +113,7 @@
 - [직무별 현직자가 말하는 반도체 직무 바이블](https://product.kyobobook.co.kr/detail/S000200637977)
 - [한권으로 끝내는 전공/직무 면접 반도체 이론편](https://product.kyobobook.co.kr/detail/S000201655733)
 - [한권으로 끝내는 전공/직무 면접 반도체 기출편](https://product.kyobobook.co.kr/detail/S000209719413)
-- [반도체 구조 원리 교과서](https://product.kyobobook.co.kr/detail/S000211544603)
+- [반도체 구조 원리 교과서](https://product.kyobobook.co.kr/detail/S000211544603)
 
 #### 참고자료
 - [한컴아카데미](https://www.hancomacademy.com/aboutus/index.php) 교육 커리큘럼 참고
