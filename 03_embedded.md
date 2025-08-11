@@ -98,7 +98,10 @@
 #### 반도체회로설계
 
 - [삼코치 회로설계 올인원 Class 로드맵](https://www.inflearn.com/roadmaps/6876)
-
+- [TTA 아카데미](https://edu.tta.or.kr/edu/index.do)
+- [IDEC(반도체설계교육센터)](https://www.idec.or.kr/)
+- [ETRI](https://www.etri.re.kr/intro.html)
+- [IEEE](https://www.ieee.org/education-career)
 
 #### 참고자료
 - [한컴아카데미](https://www.hancomacademy.com/aboutus/index.php) 교육 커리큘럼 참고
