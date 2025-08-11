@@ -96,12 +96,23 @@
 - [자율주행제어 이론 및 실습](https://www.kmooc.kr/view/course/detail/16481?tm=20250806223336)
 
 #### 반도체회로설계
+```
+1) 회로이론, 전자회로 등 기본 이론 학습
+2) 삼코치 회로설계 올인원 Class 로드맵 따라가기
+```
 
+(참고자료)
 - [삼코치 회로설계 올인원 Class 로드맵](https://www.inflearn.com/roadmaps/6876)
 - [TTA 아카데미](https://edu.tta.or.kr/edu/index.do)
 - [IDEC(반도체설계교육센터)](https://www.idec.or.kr/)
 - [ETRI](https://www.etri.re.kr/intro.html)
 - [IEEE](https://www.ieee.org/education-career)
+- [반도체 제조기술의 이해](https://product.kyobobook.co.kr/detail/S000001845007)
+- [반도체의 부가가치를 올리는 패키지와 테스트](https://product.kyobobook.co.kr/detail/S000001747065)
+- [직무별 현직자가 말하는 반도체 직무 바이블](https://product.kyobobook.co.kr/detail/S000200637977)
+- [한권으로 끝내는 전공/직무 면접 반도체 이론편](https://product.kyobobook.co.kr/detail/S000201655733)
+- [한권으로 끝내는 전공/직무 면접 반도체 기출편](https://product.kyobobook.co.kr/detail/S000209719413)
+- [반도체 구조 원리 교과서](https://product.kyobobook.co.kr/detail/S000211544603)
 
 #### 참고자료
 - [한컴아카데미](https://www.hancomacademy.com/aboutus/index.php) 교육 커리큘럼 참고
