@@ -83,8 +83,6 @@
 - [리눅스 커널 구조와 원리 1,2](https://www.inflearn.com/users/1180851/courses)
 - [Arm 아키텍처](https://www.inflearn.com/users/1180851/courses)
 
-
-
 #### 임베디드 심화
 ```
 1)
