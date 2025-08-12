@@ -80,7 +80,6 @@
 - [연세대 정한울 교수닝의 강의](https://www.youtube.com/@docceptor195/videos)
 - [0에서 시작하는 자동차 소프트웨어 개발자 로드맵](https://www.inflearn.com/roadmaps/3470)
 - [CAN 통신](https://www.inflearn.com/users/462221/courses) 
-- [OJ Tube의 임베디드 개발(입문)](https://www.inflearn.com/course/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8)
 - [리눅스 커널 구조와 원리 1,2](https://www.inflearn.com/users/1180851/courses)
 - [Arm 아키텍처](https://www.inflearn.com/users/1180851/courses)
 
