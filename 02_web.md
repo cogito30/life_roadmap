@@ -100,15 +100,18 @@
 #### BackEnd
 ```
 개발환경: IntelliJ + Java + Spring + JPA
-1) 이것이 백엔드 개발이다 교재 읽가
-2) boostcourse(풀스택) 강의 듣기
-3) 김영한의 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 강의 듣기
-4) 김영한의 스프링 핵심 원리 - 기본편 강의 듣기
-5) 프로젝트로 배우는 데이터베이스 설계 교재 읽기
-6) 대규모 시스템 설계 기초 1, 2 교재 읽기
+1) 코딩아재의 백엔드입문(개발편/운영편) 강의 듣기
+2) 코딩아재의 웹개발입문(기초편/심화편) 강의 듣기
+3) 이것이 백엔드 개발이다 교재 읽기
+4) boostcourse(풀스택) 강의 듣기
+5) 김영한의 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 강의 듣기
+6) 김영한의 스프링 핵심 원리 - 기본편 강의 듣기
+7) 프로젝트로 배우는 데이터베이스 설계 교재 읽기
+8) 대규모 시스템 설계 기초 1, 2 교재 읽기
 ```
 
 (참고자료)
+- [코딩아재](https://www.youtube.com/@codingajae/playlists)
 - [이것이 취업을 위한 백엔드 개발이다.](https://www.youtube.com/playlist?list=PLVsNizTWUw7FBMFX9pezh5Gxg5AtNmoMv)
 - [boostcourse 풀스택개발](https://www.boostcourse.org/web316)
 - [김영한의 스프링 완전 정복](https://www.inflearn.com/roadmaps/373)
