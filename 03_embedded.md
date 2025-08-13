@@ -56,18 +56,20 @@
 
 #### 임베디드 기본
 ```
-1) 제품부터 시작하는 인우의 반도체 CHIP 회로설계 이야기
-2) OJTube의 임베디드 개발
-3) 회로설계 입문자를 위한 디지털, 아날로그 설계외 실무 Project
-4) 삼코치의 반도체 디지털/아날로그/레이아웃 통합 설계 가이드 교재 읽기
-5) 사물인터넷을 위한 리눅스 프로그래밍 with 라즈베리파이 교재 읽기
-6) 임베디드 소프트웨어 베이직 with 라즈베리파이 교재 읽기
-7) Embedded Sketches 교재 읽기
-8) Embedded Recipes 교재 읽기
+1) 임베디드 기초 뿌수기 강의 듣기
+2) 제품부터 시작하는 인우의 반도체 CHIP 회로설계 이야기
+3) OJTube의 임베디드 개발
+4) 회로설계 입문자를 위한 디지털, 아날로그 설계외 실무 Project
+5) 삼코치의 반도체 디지털/아날로그/레이아웃 통합 설계 가이드 교재 읽기
+6) 사물인터넷을 위한 리눅스 프로그래밍 with 라즈베리파이 교재 읽기
+7) 임베디드 소프트웨어 베이직 with 라즈베리파이 교재 읽기
+8) Embedded Sketches 교재 읽기
+9) Embedded Recipes 교재 읽기
 ```
 
 (참고자료)
 - Arduino -> RaspberryPi -> ARM(Cortex)
+- [임베디드 기초 뿌수기](https://www.youtube.com/playlist?app=desktop&list=PL4BxqTb0CQhe5n7KXY7zT-jx4ZQ8efVjG)
 - [제품부터 시작하는 인우의 반도체 CHIP 회로설계 이야기](https://www.inflearn.com/course/%EC%A0%9C%ED%92%88%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%B0%98%EB%8F%84%EC%B2%B4-%ED%9A%8C%EB%A1%9C%EC%84%A4%EA%B3%84)
 - [OJTube의 임베디드 개발(무료)](https://www.youtube.com/playlist?list=PLz--ENLG_8TNjRg1OtyFBvUyV4PHaKwmu)
 - [OJTube의 임베디드 개발](https://www.inflearn.com/course/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8)
@@ -78,6 +80,8 @@
 - [임베디드 스크래치]()
 - [임베디드 레시피](https://recipes.tistory.com/)
 - [연세대 정한울 교수닝의 강의](https://www.youtube.com/@docceptor195/videos)
+- [경희대 김동한 교수님의 임베디드시스템설계](https://www.youtube.com/playlist?list=PLP4rlEcTzeFI68k2A57nevWkL2Ono0IL3)
+- [경희대 김동한 교수님의 마이크로프로세서](https://www.youtube.com/playlist?app=desktop&list=PLP4rlEcTzeFJ0tDZ14WJkxzgtlgWeZzpE)
 - [0에서 시작하는 자동차 소프트웨어 개발자 로드맵](https://www.inflearn.com/roadmaps/3470)
 - [CAN 통신](https://www.inflearn.com/users/462221/courses) 
 - [리눅스 커널 구조와 원리 1,2](https://www.inflearn.com/users/1180851/courses)
