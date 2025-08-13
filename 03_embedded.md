@@ -114,6 +114,7 @@
 ```
 
 (참고자료)
+- [비메모리 설계 엔지니어를 위한 설계독학맛비's 로드맵](https://www.youtube.com/watch?app=desktop&v=qzQFshHQxfI)
 - [삼코치 회로설계 올인원 Class 로드맵](https://www.inflearn.com/roadmaps/6876)
 - [회로멘토 삼코치](https://linktr.ee/circuit_mentor)
 - [TTA 아카데미](https://edu.tta.or.kr/edu/index.do)
