@@ -86,6 +86,7 @@
 - [CAN 통신](https://www.inflearn.com/users/462221/courses) 
 - [리눅스 커널 구조와 원리 1,2](https://www.inflearn.com/users/1180851/courses)
 - [Arm 아키텍처](https://www.inflearn.com/users/1180851/courses)
+- [그라운드 임베디드 블로그](https://blog.naver.com/ground_rlc)
 
 #### 임베디드 심화
 ```
