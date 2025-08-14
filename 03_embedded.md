@@ -107,6 +107,7 @@
 - [Adaptive AUTOSAR 입문](https://www.youtube.com/playlist?list=PLuDDfuTPjpBTsL_3JcpnezTNG9_XytZmU)
 - [22회 임베디드 SW경진대회 자율주행 레이싱부분 온라인교육](https://www.youtube.com/playlist?list=PLuDDfuTPjpBQtrImRCyG5qD02uisdoWYV)
 - [자율주행제어 이론 및 실습](https://www.kmooc.kr/view/course/detail/16481?tm=20250806223336)
+- [Autosar Fundamentals](https://www.youtube.com/playlist?list=PLcJexvr5zjtZDhNTgKihHHiBydKVDtUsh)
 
 #### 반도체회로설계
 ```
